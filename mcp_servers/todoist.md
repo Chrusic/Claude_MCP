@@ -4,8 +4,7 @@ Created by: <https://github.com/lotarcc/todoist-mcp-server>
 
 ## Quick reference
 
-
-### Commands: 
+### Commands
 
 Install:
 
