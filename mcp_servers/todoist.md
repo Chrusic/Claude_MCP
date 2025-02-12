@@ -1,6 +1,7 @@
 # todoist MCP server
 
 Created by: <https://github.com/lotarcc/todoist-mcp-server>
+From a fork of: <https://github.com/abhiz123/todoist-mcp-server>
 
 ## Quick reference
 
