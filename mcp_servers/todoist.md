@@ -7,9 +7,9 @@ Created by: <https://github.com/lotarcc/todoist-mcp-server>
 ### Commands
 
 Install:
-
+``` bash
 npm install -g todoist-mcp-enhanced-server
-
+```
 ### .json config
 
 Create a todoist API token from <https://app.todoist.com/app/settings/integrations/developer>
