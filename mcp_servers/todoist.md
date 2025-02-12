@@ -15,7 +15,7 @@ npm install -g todoist-mcp-enhanced-server
 Create a todoist API token from <https://app.todoist.com/app/settings/integrations/developer>
 
 Copy and paste into claude.desktop.config.json
-
+``` json
 {
   "mcpServers": {
     "todoist": {
@@ -27,3 +27,4 @@ Copy and paste into claude.desktop.config.json
     }
   }
 }
+```
